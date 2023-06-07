@@ -1,0 +1,86 @@
+{
+  "config": {
+    "title": "Next Gen Documentation",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "D:\\ICTU STUDY\\SPRING 2023\\ANDROID APP DEVELOPMENT\\React-Native-Expo-News-App\\README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "title",
+            "depth": 1,
+            "value": "Title"
+          },
+          {
+            "slug": "definition",
+            "depth": 2,
+            "value": "Definition"
+          },
+          {
+            "slug": "components",
+            "depth": 2,
+            "value": "Components"
+          },
+          {
+            "slug": "screens",
+            "depth": 2,
+            "value": "Screens"
+          },
+          {
+            "slug": "important-note",
+            "depth": 2,
+            "value": "IMPORTANT NOTE"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "components/AppBar.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Header",
+          "methods": [],
+          "actualName": "Header"
+        }
+      ]
+    },
+    {
+      "key": "screens/HomeScreen/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "HomeScreen",
+          "methods": [
+            {
+              "name": "getArticles",
+              "docblock": null,
+              "modifiers": [],
+              "params": [],
+              "returns": null
+            }
+          ],
+          "actualName": "HomeScreen"
+        }
+      ]
+    }
+  ]
+}

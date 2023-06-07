@@ -1,12 +1,12 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { StyleSheet, Text, View } from "react-native";
+import HomeScreen from "./screens/HomeScreen";
 
-import HomeScreen from './screens/HomeScreen';
-
+/// this is a documentation
 export default function App() {
   return (
     <View style={styles.container}>
-      <HomeScreen/>
+      <HomeScreen />
     </View>
   );
 }
@@ -14,6 +14,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: "#fff",
   },
 });
