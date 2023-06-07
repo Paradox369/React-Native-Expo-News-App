@@ -4,6 +4,8 @@ React Native News App
 
 ## Link to Documentation Website
 
+The PDF documentation is in the root folder, called Documentation.pdf
+
 https://cryptocurrency-app-documentation.netlify.app/
 
 ## Definition
